@@ -1,29 +1,28 @@
+
 body {
 	background-color:#efdbc6;	
 }
 
+
+
 div {
 	height:38px;
-	width:110px;
-	border-color:blue;
+	width:135px;
+	border-color:black;
 	border-style:solid;
 	border-width:2px;
 	margin:auto;
-	background-color:blue;
-	border-bottom-color:black;
+	background-color:#af6d59;
 	border-bottom-width:5px;
-	border-left-color:red;
 	border-left-width:5px;
-	border-right-color:green;
 	border-right-width:5px;
-	border-top-color:orange;
 	border-top-width:5px;
 }
 
 a {
 	text-decoration:none;
 	font-size:30px;
-	font-family:Verde Moderna;
+	font-family:Della Respira,serif;
 	font-weight:bold;
 	color:white;
 }
@@ -33,7 +32,7 @@ a:hover{
 }
 
 #flag{
-	font-family:Verde Moderna;
+	font-family:Della Respira,serif;
 	font-size:30px;
 	margin-top:90px;
 }
@@ -45,7 +44,7 @@ a:hover{
 
 #cafe {
 	text-align:center;
-	font-family:Verde Moderna;
+	font-family:Della Respira,serif;
 	font-size:30px;
 	color:black;
 	padding-bottom:2px;
@@ -61,8 +60,8 @@ a:hover{
 
 footer{
 	font-weight:bold;
-	background-color:white;
-	font-family:Verde Moderna;
+	
+	font-family:Della Respira,serif;
 }
 
 h2{
@@ -76,6 +75,38 @@ hr {
 	background-color:black;
 }
 
+
 .verde {
-	font-family:AR DESTINE;
+	font-family:Della Respira,serif;
+	font-size:30px;
+}
+
+.della {
+	
+	font-family:Della Respira,serif;
+	
+}
+
+#atrip{
+	font-size:35px;
+	font-weight:bold;
+}
+
+#intro{
+	font-size:20px;
+}
+
+#bio{
+	font-size:20px;
+}
+
+figcaption{
+	font-family:Della Respira,serif;
+	font-weight:bold;
+	font-size:18px;
+}
+
+.paratext{
+	font-family:Della Respira,serif;
+	font-size:25px;
 }
