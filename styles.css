@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(#4e88e5,white,#4e88e5);	
+	background-color:#efdbc6;	
 }
 
 div {
@@ -23,11 +23,9 @@ div {
 a {
 	text-decoration:none;
 	font-size:30px;
-	font-family:courier;
+	font-family:Verde Moderna;
 	font-weight:bold;
 	color:white;
-	
-	
 }
 
 a:hover{
@@ -35,7 +33,7 @@ a:hover{
 }
 
 #flag{
-	font-family:courier;
+	font-family:Verde Moderna;
 	font-size:30px;
 	margin-top:90px;
 }
@@ -47,12 +45,13 @@ a:hover{
 
 #cafe {
 	text-align:center;
-	font-family:courier;
+	font-family:Verde Moderna;
 	font-size:30px;
-	color:blue;
+	color:black;
 	padding-bottom:2px;
 	padding-top:30px;
 	font-weight:bold;
+	font-style:italic;
 }
 
 #bot{
@@ -63,10 +62,20 @@ a:hover{
 footer{
 	font-weight:bold;
 	background-color:white;
-	font-family:courier;
+	font-family:Verde Moderna;
 }
 
 h2{
 	padding-top:60px;
 }
 
+hr {
+	min-height:5px;
+	color:black;
+	border-color:black;
+	background-color:black;
+}
+
+.verde {
+	font-family:AR DESTINE;
+}
